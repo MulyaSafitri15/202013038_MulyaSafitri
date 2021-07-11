@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JCheckBoxMenuItem" name="jCheckBoxMenuItem1">
+      <Properties>
+        <Property name="selected" type="boolean" value="true"/>
+        <Property name="text" type="java.lang.String" value="jCheckBoxMenuItem1"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel4">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="100" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="100" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+    </Container>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="liriklagu" pref="668" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="0" max="-2" attributes="0"/>
+              <Component id="liriklagu" min="-2" pref="385" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="liriklagu">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="tampillirik">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="[Jimin]&#xa;Nan sumswigo sipeo i bami sirheo&#xa;Ijen kkaego sipeo kkumsogi sirheo&#xa;Nae ane gadhyeoseo nan jugeo-isseo&#xa;Don&#x2019;t wanna be lonely&#xa;Just wanna be yours&#xa;&#xa;[Jungkook]&#xa;Wae iri kkamkkamhan geonji niga eobtneun i goseun&#xa;Wiheomhajanha manggajin nae moseub&#xa;Guhaejwo nal nado nal jabeul su eobseo&#xa;&#xa;[V]&#xa;Nae simjangsoril deureobwa&#xa;Jemeotdaero neol bureujanha&#xa;[Jin]&#xa;I kkaman eodum sogeseo&#xa;Neoneun ireohge bitnanikka&#xa;&#xa;[V]&#xa;Geu soneul naemireojwo save me save me&#xa;I need your love before I fall fall&#xa;[Jin]&#xa;Geu soneul naemireojwo save me save me&#xa;I need your love before I fall fall&#xa;&#xa;[Jungkook]&#xa;Geu soneul naemireojwo save me save me&#xa;[Jimin]&#xa;Geu soneul naemireojwo save me save me&#xa;[Jungkook]&#xa;Save me save me&#xa;&#xa;[Suga]&#xa;Oneulttara dari bitna nae gieok sogui binkan&#xa;Nal samkyeobeorin i lunatic please save me tonight&#xa;Please save me tonight please save me tonight&#xa;I chigi eorin gwanggi sok&#xa;Nareul guwonhaejul i bam&#xa;&#xa;[J-Hope]&#xa;Nan arattji neoran guwoni&#xa;Nae salmui ilbumyeo apeumeul gamssajul yuilhan son-gil&#xa;The best of me nan neobakke eobtji&#xa;Na dasi useul su ittdorok deo nopyeojwo ni moksoril&#xa;&#xa;[Jungkook]&#xa;Nae simjangsoril deureobwa&#xa;Jemeotdaero neol bureujanha&#xa;[Jimin]&#xa;I kkaman eodum sogeseo&#xa;Neoneun ireohge bitnanikka&#xa;&#xa;[V]&#xa;Geu soneul naemireojwo save me save me&#xa;I need your love before I fall fall&#xa;[Jin]&#xa;Geu soneul naemireojwo save me save me&#xa;I need your love before I fall fall&#xa;&#xa;[Jungkook]&#xa;Geu soneul naemireojwo save me save me&#xa;[Jimin]&#xa;Geu soneul naemireojwo save me save me&#xa;&#xa;&#xa;[Rap Monster]&#xa;Gomawo naega naige haejwoseo&#xa;I naega nalge haejwoseo&#xa;Ireon naege nalgael jwoseo&#xa;Kkogithadeon nal gaejwoseo&#xa;Dabdabhadeon nal kkaejwoseo&#xa;Kkum sogeman saldeon nal kkaewojwoseo&#xa;Neol saenggakhamyeon nal gae-eoseo&#xa;Seulpeum ttawin na gae jwosseo&#xa;Thank you uriga dwaejwoseo&#xa;&#xa;[Jimin]&#xa;Geu soneul naemireojwo save me save me&#xa;I need your love before I fall fall&#xa;[Jungkook]&#xa;Geu soneul naemireojwo save me save me&#xa;I need your love before I fall fall&#xa;&#xa;Terjemahan Indonesia&#xa;&#xa;Aku ingin bernapas, aku benci malam ini&#xa;Aku ingin bangun, aku benci bermimpi&#xa;Aku terjebak di dalam diriku, aku sekarat&#xa;tak ingin kesepian&#xa;hanya ingin jadi milikmu&#xa;&#xa;Mengapa begitu gelap?&#xa;tempat ini tanpamu&#xa;Ini berbahaya, aku hancur&#xa;Salamatkan aku, aku bahkan tak bisa mengerti diriku sendiri&#xa;&#xa;Dengarkan hatiku&#xa;yang memanggilmu dengan sendirinya&#xa;Dalam kegelapan hitam ini&#xa;Kau adalah cahaya&#xa;&#xa;Ulurkan tanganmu, selamatkan aku, selamatkan aku&#xa;Aku membutuhkan cintamu sebelum aku jatuh jatuh&#xa;Ulurkan tanganmu, selamatkan aku, selamatkan aku&#xa;Aku membutuhkan cintamu sebelum aku jatuh&#xa;Ulurkan tanganmu, selamatkan aku, selamatkan aku&#xa;Ulurkan tanganmu, selamatkan aku, selamatkan aku&#xa;Selamatkan aku, selamatkan aku&#xa;&#xa;Bulan hari ini menyinari kekosongan ingatanku&#xa;Kegilaan ini telah menelanku&#xa;Tolong selamatkan aku malam ini&#xa;Tolong selamatkan aku malam ini&#xa;Tolong selamatkan aku malam ini&#xa;Dalam kegilaan yang kekanak-kanakan ini&#xa;Malam inilah yang akan memberi penyelamatan padaku&#xa;&#xa;Aku tahu bahwa kau adalah penyelamatku&#xa;Satu-satunya tangan yang akan membelaku&#xa;Dari bagian yang menyakitkan dalam hidupku&#xa;Yang terbaik dariku, aku tak punya apa-apa, tapi punya dirimu&#xa;Sehingga bisa tertawa lagi, membuatku senang&#xa;Suara mu&#xa;&#xa;Keluarkanlah&#xa;Dengarkan hatiku&#xa;yang memanggilku dengan sendirinya&#xa;dalam kegelapan hitam ini&#xa;Kau adalah cahaya&#xa;&#xa;Ulurkan tanganmu, selamatkan aku, selamatkan aku&#xa;Aku membutuhkan cintamu sebelum aku jatuh jatuh&#xa;Ulurkan tanganmu, selamatkan aku, selamatkan aku&#xa;Aku membutuhkan cintamu sebelum aku jatuh&#xa;Ulurkan tanganmu, selamatkan aku, selamatkan aku&#xa;Ulurkan tanganmu, selamatkan aku, selamatkan aku&#xa;&#xa;Aku bersyukur, untuk melakukan hal ini&#xa;Untuk memberiku sayap&#xa;Untuk memberikan sayap untuk orang sepertiku&#xa;Untuk memberikan itu semua pada kehancuranku&#xa;Untuk membangunkan penahananku&#xa;Untuk membangunkanku yang tinggal hanya dalam mimpi&#xa;Karena aku bangun sambil memikirkanmu&#xa;Aku membuang semua kesedihanku&#xa;terima kasih, untuk (aku dan kamu) menjadi &#x201c;kita&#x201d;&#xa;&#xa;Ulurkan tanganmu, selamatkan aku, selamatkan aku&#xa;Aku membutuhkan cintamu sebelum aku jatuh jatuh&#xa;Ulurkan tanganmu, selamatkan aku, selamatkan aku&#xa;Aku membutuhkan cintamu sebelum aku jatuh"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

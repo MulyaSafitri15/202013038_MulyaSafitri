@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="save me"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="40" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="dope"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="69" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="buterfly"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton3ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="98" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jButton1"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="127" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jButton1"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="156" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jButton1"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="185" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jButton1"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton7ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="214" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jButton1"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="243" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jButton1"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="272" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton10">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jButton1"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="301" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton11">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jButton1"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="330" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton12">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jButton1"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="359" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton13">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jButton1"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="388" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton14">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jButton1"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="417" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="daftarlagu">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Trajan Pro" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Daftar Lagu"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="11" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Container class="javax.swing.JTabbedPane" name="jTabbedPane1">
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="146" y="-28" width="-1" height="1150"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="saveme">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="save me">
+                <Property name="tabTitle" type="java.lang.String" value="save me"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="liriklagu" alignment="0" pref="1021" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="0" max="-2" attributes="0"/>
+                      <Component id="liriklagu" pref="1122" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JScrollPane" name="liriklagu">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextArea" name="tampillirik">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                    <Property name="columns" type="int" value="20"/>
+                    <Property name="rows" type="int" value="5"/>
+                    <Property name="text" type="java.lang.String" value="[Jimin]&#xa;Nan sumswigo sipeo i bami sirheo&#xa;Ijen kkaego sipeo kkumsogi sirheo&#xa;Nae ane gadhyeoseo nan jugeo-isseo&#xa;Don&#x2019;t wanna be lonely&#xa;Just wanna be yours&#xa;&#xa;[Jungkook]&#xa;Wae iri kkamkkamhan geonji niga eobtneun i goseun&#xa;Wiheomhajanha manggajin nae moseub&#xa;Guhaejwo nal nado nal jabeul su eobseo&#xa;&#xa;[V]&#xa;Nae simjangsoril deureobwa&#xa;Jemeotdaero neol bureujanha&#xa;[Jin]&#xa;I kkaman eodum sogeseo&#xa;Neoneun ireohge bitnanikka&#xa;&#xa;[V]&#xa;Geu soneul naemireojwo save me save me&#xa;I need your love before I fall fall&#xa;[Jin]&#xa;Geu soneul naemireojwo save me save me&#xa;I need your love before I fall fall&#xa;&#xa;[Jungkook]&#xa;Geu soneul naemireojwo save me save me&#xa;[Jimin]&#xa;Geu soneul naemireojwo save me save me&#xa;[Jungkook]&#xa;Save me save me&#xa;&#xa;[Suga]&#xa;Oneulttara dari bitna nae gieok sogui binkan&#xa;Nal samkyeobeorin i lunatic please save me tonight&#xa;Please save me tonight please save me tonight&#xa;I chigi eorin gwanggi sok&#xa;Nareul guwonhaejul i bam&#xa;&#xa;[J-Hope]&#xa;Nan arattji neoran guwoni&#xa;Nae salmui ilbumyeo apeumeul gamssajul yuilhan son-gil&#xa;The best of me nan neobakke eobtji&#xa;Na dasi useul su ittdorok deo nopyeojwo ni moksoril&#xa;&#xa;[Jungkook]&#xa;Nae simjangsoril deureobwa&#xa;Jemeotdaero neol bureujanha&#xa;[Jimin]&#xa;I kkaman eodum sogeseo&#xa;Neoneun ireohge bitnanikka&#xa;&#xa;[V]&#xa;Geu soneul naemireojwo save me save me&#xa;I need your love before I fall fall&#xa;[Jin]&#xa;Geu soneul naemireojwo save me save me&#xa;I need your love before I fall fall&#xa;&#xa;[Jungkook]&#xa;Geu soneul naemireojwo save me save me&#xa;[Jimin]&#xa;Geu soneul naemireojwo save me save me&#xa;&#xa;&#xa;[Rap Monster]&#xa;Gomawo naega naige haejwoseo&#xa;I naega nalge haejwoseo&#xa;Ireon naege nalgael jwoseo&#xa;Kkogithadeon nal gaejwoseo&#xa;Dabdabhadeon nal kkaejwoseo&#xa;Kkum sogeman saldeon nal kkaewojwoseo&#xa;Neol saenggakhamyeon nal gae-eoseo&#xa;Seulpeum ttawin na gae jwosseo&#xa;Thank you uriga dwaejwoseo&#xa;&#xa;[Jimin]&#xa;Geu soneul naemireojwo save me save me&#xa;I need your love before I fall fall&#xa;[Jungkook]&#xa;Geu soneul naemireojwo save me save me&#xa;I need your love before I fall fall&#xa;&#xa;Terjemahan Indonesia&#xa;&#xa;Aku ingin bernapas, aku benci malam ini&#xa;Aku ingin bangun, aku benci bermimpi&#xa;Aku terjebak di dalam diriku, aku sekarat&#xa;tak ingin kesepian&#xa;hanya ingin jadi milikmu&#xa;&#xa;Mengapa begitu gelap?&#xa;tempat ini tanpamu&#xa;Ini berbahaya, aku hancur&#xa;Salamatkan aku, aku bahkan tak bisa mengerti diriku sendiri&#xa;&#xa;Dengarkan hatiku&#xa;yang memanggilmu dengan sendirinya&#xa;Dalam kegelapan hitam ini&#xa;Kau adalah cahaya&#xa;&#xa;Ulurkan tanganmu, selamatkan aku, selamatkan aku&#xa;Aku membutuhkan cintamu sebelum aku jatuh jatuh&#xa;Ulurkan tanganmu, selamatkan aku, selamatkan aku&#xa;Aku membutuhkan cintamu sebelum aku jatuh&#xa;Ulurkan tanganmu, selamatkan aku, selamatkan aku&#xa;Ulurkan tanganmu, selamatkan aku, selamatkan aku&#xa;Selamatkan aku, selamatkan aku&#xa;&#xa;Bulan hari ini menyinari kekosongan ingatanku&#xa;Kegilaan ini telah menelanku&#xa;Tolong selamatkan aku malam ini&#xa;Tolong selamatkan aku malam ini&#xa;Tolong selamatkan aku malam ini&#xa;Dalam kegilaan yang kekanak-kanakan ini&#xa;Malam inilah yang akan memberi penyelamatan padaku&#xa;&#xa;Aku tahu bahwa kau adalah penyelamatku&#xa;Satu-satunya tangan yang akan membelaku&#xa;Dari bagian yang menyakitkan dalam hidupku&#xa;Yang terbaik dariku, aku tak punya apa-apa, tapi punya dirimu&#xa;Sehingga bisa tertawa lagi, membuatku senang&#xa;Suara mu&#xa;&#xa;Keluarkanlah&#xa;Dengarkan hatiku&#xa;yang memanggilku dengan sendirinya&#xa;dalam kegelapan hitam ini&#xa;Kau adalah cahaya&#xa;&#xa;Ulurkan tanganmu, selamatkan aku, selamatkan aku&#xa;Aku membutuhkan cintamu sebelum aku jatuh jatuh&#xa;Ulurkan tanganmu, selamatkan aku, selamatkan aku&#xa;Aku membutuhkan cintamu sebelum aku jatuh&#xa;Ulurkan tanganmu, selamatkan aku, selamatkan aku&#xa;Ulurkan tanganmu, selamatkan aku, selamatkan aku&#xa;&#xa;Aku bersyukur, untuk melakukan hal ini&#xa;Untuk memberiku sayap&#xa;Untuk memberikan sayap untuk orang sepertiku&#xa;Untuk memberikan itu semua pada kehancuranku&#xa;Untuk membangunkan penahananku&#xa;Untuk membangunkanku yang tinggal hanya dalam mimpi&#xa;Karena aku bangun sambil memikirkanmu&#xa;Aku membuang semua kesedihanku&#xa;terima kasih, untuk (aku dan kamu) menjadi &#x201c;kita&#x201d;&#xa;&#xa;Ulurkan tanganmu, selamatkan aku, selamatkan aku&#xa;Aku membutuhkan cintamu sebelum aku jatuh jatuh&#xa;Ulurkan tanganmu, selamatkan aku, selamatkan aku&#xa;Aku membutuhkan cintamu sebelum aku jatuh"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="dope">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="Dope">
+                <Property name="tabTitle" type="java.lang.String" value="Dope"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="liriklagu1" alignment="0" pref="1021" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="liriklagu1" alignment="1" pref="1122" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JScrollPane" name="liriklagu1">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextArea" name="tampillirik1">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                    <Property name="columns" type="int" value="20"/>
+                    <Property name="rows" type="int" value="5"/>
+                    <Property name="text" type="java.lang.String" value="[RapMonster] Eoseo wa bangtaneun cheoeumiji?&#xa;&#xa;[JungKook] Ayo ladies &amp; gentleman&#xa;Junbiga dwaettdamyeon bureulge yeah!&#xa;Ttan nyeoseokdeulgwaneun dareuge&#xa;Nae seutaillo nae nae nae nae seutaillo eo!&#xa;&#xa;[Jimin] Bamsae ilhaettji Everyday&#xa;Niga keulleobeseo nol ttae yeah&#xa;Ja nollaji malgo deureo maeil&#xa;[JungKook] I got a feel, I got a feel&#xa;[Jimin] Nan jom jjeoreo!&#xa;&#xa;[J-Hope] Ah jjeoreo jjeoreo jjeoreo uri yeonseupsil ttamnae&#xa;Bwa jjeoreong jjeoreong jjeoreonghan&#xa;Nae chumi daphae&#xa;Modu bisiri jjijiri jjingjjingi ttilttirideul&#xa;Narangeun sanggwani eopseo&#xa;Cuz nan huimangi jjeoreo haha&#xa;&#xa;[SUGA] OK urin meoributeo balkkeutkkaji jeonbu da&#xa;Jjeo jjeoreo&#xa;Haruui jeolbaneul jageobe jjeo jjeoreo&#xa;Jageopsire jjeoreo sareo cheongchuneun sseogeogado&#xa;Deokbune moro gado dallineun seonggonggado&#xa;Sonyeodeura deo keuge sorijilleo jjeo jjeoreong&#xa;&#xa;[V] Bamsae ilhaettji Everyday (Turn Up)&#xa;Niga keulleobeseo nol ttae yeah&#xa;Ttan nyeoseokdeulgwaneun dareuge&#xa;[JungKook] I don&#x2019;t wanna say yes&#xa;I don&#x2019;t wanna say yes&#xa;&#xa;[Jin] Sorichyeobwa All Right&#xa;Momi tabeoridorok All Night (All Night)&#xa;[JungKook] Cause we got fire (Fire!)&#xa;Higher (Higher!)&#xa;I gotta make it, I gotta make it&#xa;Jjeoreo!&#xa;&#xa;[Jimin / V] Geobuneun geobuhae&#xa;[Jimin / V] Nan wonrae neomuhae&#xa;[Jimin / V] Modu da ttara hae&#xa;[Jimin / V] Jjeoreo&#xa;[Jimin / V] Geobuneun geobuhae&#xa;[Jimin / V] Jeonbu naui noye&#xa;[Jimin / V] Modu da ttara hae&#xa;[Jimin / V] Jjeoreo&#xa;&#xa;[RapMonster] Samposedae? Ohposedae?&#xa;Geureom nan yukpoga joheunikka yokposedae&#xa;Eonrongwa eoreundeureun uijiga eopsdamyeo&#xa;Uril ssak jusikcheoreom maedohae&#xa;Wae haebogido jeone jugyeo gyaenen&#xa;[SUGA] Enemy enemy enemy&#xa;[RapMonster] Wae beolsseobuteo gogaereul sugyeo bada&#xa;[SUGA] Energy energy energy&#xa;[RapMonster] Jeoldae ma pogi You know you not lonely&#xa;Neowa nae saebyeogeun natboda yeppeo&#xa;So can I get a little bit of hope? (Yeah)&#xa;Jamdeun cheongchuneul kkaewo Go&#xa;&#xa;[V] Bamsae ilhaettji Everyday (Turn Up)&#xa;Niga keulleobeseo nol ttae yeah&#xa;Ttan nyeoseokdeulgwaneun dareuge&#xa;[JungKook] I don&#x2019;t wanna say yes&#xa;I don&#x2019;t wanna say yes&#xa;&#xa;[Jin] Sorichyeobwa All right&#xa;Momi tabeoridorok All night (All night)&#xa;[JungKook] Cause we got fire (Fire!)&#xa;Higher (Higher!)&#xa;I gotta make it, I gotta make it&#xa;Jjeoreo!&#xa;&#xa;[Jimin / V] Geobuneun geobuhae&#xa;[Jimin / V] Nan wonrae neomuhae&#xa;[Jimin / V] Modu da ttara hae&#xa;[Jimin / V] Jjeoreo&#xa;[Jimin / V] Geobuneun geobuhae&#xa;[Jimin / V] Jeonbu naui noye&#xa;[Jimin / V] Modu da ttara hae&#xa;[Jimin / V] Jjeoreo&#xa;&#xa;[Jimin] Ireon ge bangtan seutail&#xa;Geojitmal Wack deulgwaneun dalla&#xa;[JungKook] Maeiri Hustle Life&#xa;I gotta make it fire baby&#xa;[Jimin] Ireon ge bangtan seutail&#xa;Geojitmal Wack deulgwaneun dalla&#xa;[JungKook] Maeiri Hustle Life&#xa;I gotta make it, I gotta make it&#xa;[Jimin] Nan jom jjeoreo!&#xa;&#xa;[JungKook] Say what!&#xa;Say wo~ wo~&#xa;Say what!&#xa;Jjeoreo&#xa;&#xa;Indonesia Translation&#xa;&#xa;Selamat datang, pertama kalinya bersama BTS?&#xa;&#xa;Ayo ladies &amp; gentleman&#xa;Jika kalian siap, aku akan mulai&#xa;Berbeda dengan yang lain&#xa;Dengan style-ku, dengan style-ku&#xa;&#xa;Aku bekerja sepanjang malam, setiap hari&#xa;Ketika kau bermain di klub&#xa;Jangan terkejut dan dengarkanlah tiap hari&#xa;Aku punya perasaan, aku punya perasaan&#xa;Aku dope!&#xa;&#xa;Kami basah basah basah kuyup akan keringat di studio kami&#xa;Lihatlah, putaran tarianku bergerak memberi jawaban&#xa;Kalian semua sungguh lemah, semacam pecundang, cengeng dan idiot&#xa;Tidak tahu harus apa dengan diriku sebab aku penuh akan harapan haha&#xa;&#xa;OH, kami dope mulai dari kepala hingga kaki&#xa;Kami jemu pada pekerjaan yang berlangsung selama separuh hari kami&#xa;Kami hidup sakit-sakitan di studio kami, masa muda kami mungkin telah basi&#xa;Namun syukurlah, kami tengah menuju kesuksesan&#xa;Para gadis, bersorak semakin keras, biarkanlah mereka berteriak&#xa;&#xa;Aku bekerja sepanjang malam, setiap hari&#xa;Ketika kau bermain di klub&#xa;Berbeda dengan yang lain&#xa;Aku takkan berkata iya&#xa;Aku takkan berkata iya&#xa;&#xa;Ciptakan kebisingan, sepanjang malam&#xa;Hingga tubuhmu terbakar, sepanjang malam, sepanjang malam&#xa;Karena kami berapi-api&#xa;Lebih tinggi, lebih tinggi&#xa;Aku harus mencapainya, aku harus mencapainya&#xa;Dope!&#xa;&#xa;Aku tidak menerima penolakan&#xa;Aku selalu berada paling atas&#xa;Semuanya ikuti aku&#xa;Dope!&#xa;&#xa;Aku tidak menerima penolakan&#xa;Kalian semua adalah budakku&#xa;Semuanya ikuti aku&#xa;Dope!&#xa;&#xa;Generasi Sampo? Generasi Ohpo?&#xa;Kami suka makan dendeng jadi ya Generasi Yookpo.&#xa;Media dan para orang dewasa bilang kami ini tidak punya tekad, mengutuk kami seperti binatang ternak&#xa;Mengapa mereka mematikan kami bahkan sebelum kami mencoba? enemy enemy enemy&#xa;Mengapa kau menganggukan kepala dan menerimanya begitu saja? energy energy energy&#xa;Jangan pernah menyerah, kau tau bahwa kau tak sendiri&#xa;Waktu dini hari kita lebih cantik dari waktu tengah hari&#xa;Jadi bisakah aku dapatkan setitik harapan? yeah&#xa;Bangunkan masa mudamu yang terlelap, go&#xa;&#xa;Aku bekerja sepanjang malam, setiap hari&#xa;Ketika kau bermain di klub&#xa;Berbeda dengan yang lain&#xa;Aku takkan berkata iya&#xa;Aku takkan berkata iya&#xa;&#xa;Ciptakan kebisingan, sepanjang malam&#xa;Hingga tubuhmu terbakar, sepanjang malam, sepanjang malam&#xa;Karena kami berapi-api&#xa;Lebih tinggi, lebih tinggi&#xa;Aku harus mencapainya, aku harus mencapainya&#xa;Dope!&#xa;&#xa;Aku tidak menerima penolakan&#xa;Aku selalu berada paling atas&#xa;Semuanya ikuti aku&#xa;Dope!&#xa;&#xa;Aku tidak menerima penolakan&#xa;Kalian semua adalah budakku&#xa;Semuanya ikuti aku&#xa;Dope!&#xa;&#xa;Ini adalah Bangtan style&#xa;Berbeda dengan orang sinting yang berdusta&#xa;Setiap hari isinya kerja keras&#xa;Aku harus menjadikannya berapi-api baby&#xa;&#xa;Ini adalah Bangtan style&#xa;Berbeda dengan orang sinting yang berdusta&#xa;Setiap hari isinya kerja keras&#xa;Aku harus mencapainya, aku harus mencapainya&#xa;Aku dope&#xa;&#xa;Say what?&#xa;Say wowo&#xa;Say what?&#xa;Dope!"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="butterfly">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="Butterfly">
+                <Property name="tabTitle" type="java.lang.String" value="Butterfly"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="liriklagu2" alignment="1" pref="1021" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="liriklagu2" pref="1122" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JScrollPane" name="liriklagu2">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextArea" name="tampillirik2">
+                  <Properties>
+                    <Property name="columns" type="int" value="20"/>
+                    <Property name="rows" type="int" value="5"/>
+                    <Property name="text" type="java.lang.String" value="[Jungkook] amugeotdo saenggakhaji ma&#xa;neon amu maldo kkeonaejido ma&#xa;geunyang naege useojwo&#xa;&#xa;[V] nan ajikdo mitgijiga anha&#xa;i modeun ge da kkumin geot gata&#xa;sarajiryeo hajima&#xa;&#xa;[Jungkook] Is it true? Is it true?&#xa;You You&#xa;neomu areumdawo duryeowo&#xa;[Jimin] Untrue Untrue&#xa;You You You&#xa;&#xa;[Jungkook] gyeote meomulleojullae&#xa;naege yaksokhaejullae&#xa;son daemyeon naragalkka buseojilkka&#xa;geobna geobna geobna&#xa;&#xa;[Jimin] siganeul meomchullae&#xa;i sungani jinamyeon&#xa;eobseotdeon iri doelkka&#xa;neol irheulkka&#xa;geobna geobna geobna&#xa;&#xa;[Jungkook] Butterfly, like a Butterfly&#xa;machi Butterfly, bu butterfly cheoreom&#xa;[V] Butterfly, like a butterfly&#xa;machi Butterfly, bu butterfly cheoreom&#xa;&#xa;[Suga] neon machi Butterfly&#xa;meolliseo humchyeobwa&#xa;son daheumyeon neol irheulkka&#xa;i chilheuk gateun&#xa;eodum sok nal barkhineun nabihyogwa&#xa;ni jageun sonjit han beone&#xa;hyeonsireul ijeo nan&#xa;&#xa;[J-Hope] salmyeosi sseudadeumneun baram gata&#xa;salposi pyoryuhaneun meonji gata&#xa;neon geogi itjiman waenji dahji anha&#xa;Stop&#xa;kkum gateun neon naege butterfly, high&#xa;&#xa;[Jin] Untrue Untrue&#xa;You You You&#xa;&#xa;[Jungkook] gyeote meomulleojullae&#xa;naege yaksokhaejullae&#xa;son daemyeon naragalkka buseojilkka&#xa;geobna geobna geobna&#xa;&#xa;[V] siganeul meomchullae&#xa;i sungani jinamyeon&#xa;eobseotdeon iri doelkka neol irheulkka&#xa;geobna geobna geobna&#xa;&#xa;[Rap Monster] simjangeun memareun sorireul nae&#xa;kkuminji hyeonsirinji al su eobtne&#xa;naui haebyeonui kapeukayeo&#xa;jeogi supeuro gajin marajwo&#xa;nae maeumeun ajik neo wie buseojyeo&#xa;jogakjogak kkamake noga heulleo&#xa;(nan geunyang idaero jeungbalhago sipeo)&#xa;nae sarangeun yeongwonin geol&#xa;It&#x2019;s all FREE for you baby&#xa;&#xa;[Jungkook] gyeote meomulleojullae&#xa;naege yaksokhaejullae&#xa;son daemyeon naragalkka buseojilkka&#xa;geobna geobna geobna&#xa;&#xa;[V] siganeul meomchullae&#xa;i sungani jinamyeon&#xa;eobseotdeon iri doelkka neol irheulkka&#xa;geobna geobna geobna&#xa;&#xa;[Jimin] Butterfly, like a butterfly&#xa;machi Butterfly, bu butterfly cheoreom&#xa;[Jin] Butterfly, like a butterfly&#xa;machi Butterfly, bu butterfly cheoreom&#xa;&#xa;English Translate&#xa;&#xa;[Jungkook] Don&#x2019;t think of anything&#xa;Don&#x2019;t say a single word&#xa;Just laugh with me&#xa;&#xa;[V] I still don`t believe it&#xa;It all seems like a dream&#xa;Please don&#x2019;t disappear&#xa;&#xa;[Jungkook] Is it true? Is it true?&#xa;You You&#xa;You&#x2019;re so beautiful, I&#x2019;m afraid&#xa;[Jimin] Untrue Untrue&#xa;You You You&#xa;&#xa;[Jungkook] Will you stay by my side?&#xa;Will you promise me?&#xa;I&#x2019;m afraid If I touch you, you&#x2019;ll fly away, and shatter&#xa;I&#x2019;m afraid I&#x2019;m afraid I&#x2019;m afraid&#xa;&#xa;[Jimin] Will you stop time?&#xa;When this moment passes&#xa;Nothing might&#x2019;ve happened&#xa;I could lose you&#xa;I&#x2019;m afraid I&#x2019;m afraid I&#x2019;m afraid&#xa;&#xa;[Jungkook] Butterfly, like a Butterfly&#xa;Just like a butterfly Like a bu, butterfly&#xa;[V] Butterfly, like a Butterfly&#xa;Just like a butterfly Like a bu, butterfly&#xa;&#xa;[Suga] You&#x2019;re like a butterfly&#xa;From afar I try to steal you&#xa;If I touch you , I&#x2019;ll lose you&#xa;In this pitch-black&#xa;Darkness, You shine like a butterfly&#xa;With your small hand, At once&#xa;I forgot about reality&#xa;&#xa;[JHope] Like a gently caressing breeze&#xa;Like lightly drifting dust&#xa;You&#x2019;re there, however I can&#x2019;t touch you&#xa;Stop&#xa;You&#x2019;re like a dream to me, You&#x2019;re my butterfly, high&#xa;&#xa;[Jin] Untrue Untrue&#xa;You You You&#xa;&#xa;[Jungkook] Will you stay by my side?&#xa;Will you promise me?&#xa;I&#x2019;m afraid If I touch you, you&#x2019;ll fly away, and shatter&#xa;I&#x2019;m afraid I&#x2019;m afraid I&#x2019;m afraid&#xa;&#xa;[V] Will you stop time?&#xa;When this moment passes&#xa;Nothing might&#x2019;ve happened&#xa;I could lose you&#xa;I&#x2019;m afraid I&#x2019;m afraid I&#x2019;m afraid&#xa;&#xa;[Rap Monster] From the heart comes an empty sound&#xa;Whether this is a dream or reality, I can&#x2019;t tell&#xa;My Kafka is on the shore&#xa;Don&#x2019;t go into the forest&#xa;My feelings are still crashing down on you&#xa;The pieces are melting darkly&#xa;I just wanna vanish like this&#xa;My love for forever&#xa;It&#x2019;s all free for you baby&#xa;&#xa;[Jungkook] Will you stay by my side?&#xa;Will you promise me?&#xa;I&#x2019;m afraid If I touch you, you&#x2019;ll fly away, and shatter&#xa;I&#x2019;m afraid I&#x2019;m afraid I&#x2019;m afraid&#xa;&#xa;[V] Will you stop time?&#xa;When this moment passes&#xa;Nothing might&#x2019;ve happened&#xa;I could lose you&#xa;I&#x2019;m afraid I&#x2019;m afraid I&#x2019;m afraid&#xa;&#xa;[Jimin] Butterfly, like a Butterfly&#xa;Just like a butterfly Like a bu, butterfly&#xa;[Jin] Butterfly, like a Butterfly&#xa;Just like a butterfly Like a bu, butterfly&#xa;&#xa;Indonesia Translate&#xa;&#xa;[Jungkook] Jangan pikirkan apa pun&#xa;Jangan katakan satu kata pun&#xa;Tertawa sajalah denganku&#xa;&#xa;[V] Aku masih tak percaya&#xa;Semuanya tampak seperti mimpi&#xa;Kumohon jangan menghilang&#xa;&#xa;[Jungkook] Is it true ?, Is it true ?&#xa;You You&#xa;Kau sangat cantik, aku takut&#xa;[Jimin] Untrue Untrue&#xa;You You You&#xa;&#xa;[Jungkook] Bisakah kau tetap di sisiku?&#xa;Maukah kau berjanji padaku?&#xa;Aku takut Jika aku melepas tanganmu, kau akan terbang jauh, dan hancur&#xa;Aku takut aku takut aku takut&#xa;&#xa;[Jimin] Bisakah kau menghentikan waktu?&#xa;Ketika waktu ini telah berlalu&#xa;Mungkin tak akan ada yang terjadi&#xa;Aku bisa kehilangan mu&#xa;Aku takut aku takut aku takut&#xa;&#xa; [Jungkook] Butterfly, like a Butterfly&#xa;Sama seperti Butterfly, seperti bu butterfly&#xa;[V] Butterfly, like a butterfly&#xa;Sama seperti Butterfly, seperti bu butterfly&#xa;&#xa;[Suga] Kau seperti kupu-kupu&#xa;Dari jauh aku mencoba untuk mencurimu&#xa;Jika aku menyentuhmu, aku akan kehilanganmu&#xa;Dalam gelap gulita&#xa;Dalam kegelapan, kau bersinar seperti kupu-kupu&#xa;Dengan tangan kecil mu, Bahkan,&#xa;Aku lupa tentang realita&#xa;&#xa;[JHope] Seperti belaian angin yang lembut&#xa;Seperti sinar debu yang melayang&#xa;Kau berada di sana, namun aku tak bisa menyentuhmu&#xa;Berhenti!&#xa;Kau seperti mimpi bagi ku, Kau kupu-kupu ku, high&#xa;&#xa;[Jin] Untrue Unture&#xa;You You You&#xa;&#xa;[Jungkook] Bisakah kau tetap di sisiku?&#xa;Maukah kau berjanji padaku?&#xa;Aku takut Jika aku melepas tanganmu, kau akan terbang jauh, dan hancur&#xa;Aku takut aku takut aku takut&#xa;&#xa;[V] Bisakah kau menghentikan waktu?&#xa;Ketika waktu ini telah berlalu&#xa;Mungkin tak akan ada yang terjadi&#xa;Aku bisa kehilangan mu&#xa;Aku takut aku takut aku takut&#xa;&#xa;[RapMonster] Dari hatiku datang suara kosong&#xa;Apakah ini mimpi atau kenyataan, aku tak bisa mengatakannya&#xa;Kafka ku yang ada di pantai&#xa;Jangan pergi ke hutan&#xa;Perasaan ku masih hancur pada mu&#xa;Potongan-potongan yang mencair dalam gelap&#xa;Aku hanya ingin menghilang seperti ini&#xa;Cintaku untuk selamanya&#xa;It&#x2019;s all FREE for you baby&#xa;&#xa;[Jungkook] Bisakah kau tetap di sisiku?&#xa;Maukah kau berjanji padaku?&#xa;Aku takut Jika aku melepas tanganmu, kau akan terbang jauh, dan hancur&#xa;Aku takut aku takut aku takut&#xa;&#xa;[V] Bisakah kau menghentikan waktu?&#xa;Ketika waktu ini telah berlalu&#xa;Mungkin tak akan ada yang terjadi&#xa;Aku bisa kehilangan mu&#xa;Aku takut aku takut aku takut&#xa;&#xa;[Jimin] Butterfly, like a Butterfly&#xa;Sama seperti Butterfly, seperti bu butterfly&#xa;[Jin] Butterfly, like a butterfly&#xa;Sama seperti Butterfly, seperti bu butterfly"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
